@@ -85,7 +85,7 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 ## Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: chercheurmichael@gmail.com
-By email: societemukeke@mail.com
+* By email: chercheurmichael@gmail.com
+* By email: societemukeke@mail.com
 
 
