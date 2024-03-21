@@ -35,39 +35,30 @@ For the purposes of this Privacy Policy:
 
 * `You` means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-## Summary of Key points
-#### What personal data we collect ?
-* Our App does not collect any personal data.
-* Our App does not include any third party services that may collect personal data.
-#### How we use your personal data ?
-* Our App does not use any personal data.
-* Our App does not include any third party services that may use your personal data.
-#### How we share your personal data ?
-* Our App does not share your personal data
-* Our App does not include any third party services that may share your personal data.
-### How do we receive your personal data ?
-* We do not receive any personal data from you.
-
 ##  Collecting and Using Your Personal Data
 #### Data Collection
-Our Application, Kivira does not collect any of below data:
-* Personal Data
-* Usage data
+* Our Application, Kivira does not collect any personal data or usage data.
+* Our third-party Ad service provider may collect following data:
+  * IP Address: Collects device's IP address, which may be used to estimate the general location of a device.
+  * Device Information: Collects user product interactions and interaction information, including app launch, taps, and video views.
+  * Location Information: Collects information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.
+  * Cookies and Usage Data: Collects Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device.
 
 #### Data usage
-Our Application, Kivira does not use or process any of below data:
-* Personal Data
-* Usage data
+* Our Application, Kivira does not use or process your personal data or usage data.
+* Our third-party Ad service provider may use following data:
+  * IP Address: Used to estimate the general location of a device.
+  * Device Information: Used to collect user product interactions and interaction information, including app launch, taps, and video views.
+  * Location Information: Used to collect information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.
+  * Cookies and Usage Data: Used to collect Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device.
 
 #### Data Retention
-Our Application, Kivira does not retain or process any of below data:
-* Personal Data
-* Usage data
+* Our Application, Kivira does not retain or process any personal data or usage data.
+* Our third-party Ad service provider handle data as below:
+    * Android ad ID collection is optional.
+    * The ad ID can be reset or deleted by users using ad ID controls in the Android settings menu.
+    * Certain other features in the Google Mobile Ads SDK, such as the Limited Ads feature, may also disable transmission of the ad ID and other data.
 
-#### Data Transfer
-Our Application, Kivira does not transfer or process any of below data:
-* Personal Data
-* Usage data
 
 ## Children's Privacy
 * Our Service does not address anyone under the age of 13. 
